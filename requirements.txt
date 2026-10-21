@@ -1,0 +1,11 @@
+streamlit
+torch
+transformers
+accelerate
+safetensors
+datasets
+pandas
+plotly
+langsmith
+python-dotenv
+pytest
